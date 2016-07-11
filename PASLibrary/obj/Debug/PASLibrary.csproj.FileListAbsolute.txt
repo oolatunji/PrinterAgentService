@@ -1,0 +1,8 @@
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PASLibrary\bin\Debug\PASLibrary.dll
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PASLibrary\bin\Debug\PASLibrary.pdb
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PASLibrary\bin\Debug\ClientRuntime.dll
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PASLibrary\bin\Debug\ClientRuntime.pdb
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PASLibrary\obj\Debug\PASLibrary.csprojResolveAssemblyReference.cache
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PASLibrary\obj\Debug\PASLibrary.dll
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PASLibrary\obj\Debug\PASLibrary.pdb
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\PASLibrary\bin\Debug\PASLibrary.dll.config

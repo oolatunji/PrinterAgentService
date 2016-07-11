@@ -1,0 +1,10 @@
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\TestPAS\bin\Debug\TestPAS.exe.config
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\TestPAS\bin\Debug\TestPAS.exe
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\TestPAS\bin\Debug\TestPAS.pdb
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\TestPAS\bin\Debug\PASLibrary.dll
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\TestPAS\bin\Debug\ClientRuntime.dll
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\TestPAS\bin\Debug\PASLibrary.pdb
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\TestPAS\bin\Debug\ClientRuntime.pdb
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\TestPAS\obj\x86\Debug\TestPAS.csprojResolveAssemblyReference.cache
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\TestPAS\obj\x86\Debug\TestPAS.exe
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\TestPAS\obj\x86\Debug\TestPAS.pdb

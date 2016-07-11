@@ -1,0 +1,12 @@
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PrinterAgentService\bin\Debug\PrinterAgentService.exe
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PrinterAgentService\bin\Debug\PrinterAgentService.pdb
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PrinterAgentService\obj\x86\Debug\PrinterAgentService.exe
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PrinterAgentService\obj\x86\Debug\PrinterAgentService.pdb
+C:\Users\OLATUNJI\Documents\Projects\PrinterAgentService\PrinterAgentService\obj\x86\Debug\PrinterAgentService.csprojResolveAssemblyReference.cache
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\PrinterAgentService\bin\Debug\PrinterAgentService.exe.config
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\PrinterAgentService\bin\Debug\PASLibrary.dll
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\PrinterAgentService\bin\Debug\ClientRuntime.dll
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\PrinterAgentService\bin\Debug\PASLibrary.pdb
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\PrinterAgentService\bin\Debug\ClientRuntime.pdb
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\PrinterAgentService\obj\x86\Debug\PrinterAgentService.ProjectInstaller.resources
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\PrinterAgentService\obj\x86\Debug\PrinterAgentService.csproj.GenerateResource.Cache

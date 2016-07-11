@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Parameters>
+  <!-- PARAMETRES GLOBAUX -->
+
+  <add key="port"             value="18000"  />
+  <add key="ip"               value="11.1.24.134" />
+  <add key="piperoot"         value="."  />
+  <add key="pipename"         value="EspfServer00" />
+  <add key="commtype"         value="PIPE" />
+  <add key="model"            value="Evolis Primacy" />
+</Parameters>

@@ -1,0 +1,6 @@
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\OldPrinterClient\bin\Debug\OldPrinterClient.exe
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\OldPrinterClient\bin\Debug\OldPrinterClient.pdb
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\OldPrinterClient\obj\x86\Debug\OldPrinterClient.exe
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\OldPrinterClient\obj\x86\Debug\OldPrinterClient.pdb
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\OldPrinterClient\bin\Debug\OldPrinterClient.exe.config
+C:\Users\OLATUNJI\Documents\projects\PrinterAgentService\OldPrinterClient\obj\x86\Debug\OldPrinterClient.csprojResolveAssemblyReference.cache
